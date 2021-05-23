@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AddressServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-23T16:58:25" hostname="LAPTOP-Q9T3UUC8" time="0.054">
+  <properties/>
+  <testcase name="given3ContactDetailsWhenWrittenToFile()" classname="AddressServiceTest" time="0.054"/>
+  <system-out><![CDATA[firstName='Tanya', lastName='Kansal', address='Chandi Mandir', city='Hapur', state='UP', zip=245101, phoneNo=9874568547, email='xyz@gmail.com'
+1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
